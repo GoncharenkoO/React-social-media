@@ -1,11 +1,12 @@
 import { Search, Person, Chat, Notifications } from "@mui/icons-material";
-import styles from "./headerBar.module.css";
+import styles from "./headerBar.module.scss";
+import Woman from "../../images/person/woman.jpg";
 
 const HeaderBar = () => {
   return (
     <div className={styles.nav}>
       <div className={styles.navLeft}>
-        <span className={styles.logo}>Lamasocial</span>
+        <span className={styles.logo}>Helsocial</span>
       </div>
       <div className={styles.navCenter}>
         <div className={styles.searchBar}>
@@ -34,7 +35,7 @@ const HeaderBar = () => {
               <span className={styles.navIconBadge}>1</span>
             </div>
           </div>
-          <img src="/assets/person/1.jpeg" alt="" className={styles.picture} />
+          <img src={Woman} alt="Woman" className={styles.picture} />
         </div>
       </div>
     </div>
