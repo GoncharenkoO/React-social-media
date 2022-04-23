@@ -1,13 +1,39 @@
 {
   "files": {
-    "main.css": "/React-social-media/static/css/main.255f5794.css",
-    "main.js": "/React-social-media/static/js/main.ada7cd0c.js",
+    "main.css": "/React-social-media/static/css/main.e9225de0.css",
+    "main.js": "/React-social-media/static/js/main.c82f280c.js",
+    "static/media/model.jpg": "/React-social-media/static/media/model.7b12930edbcf2c74f501.jpg",
+    "static/media/nature.jpg": "/React-social-media/static/media/nature.4ee9ecec95ca4307dc29.jpg",
+    "static/media/woman.jpg": "/React-social-media/static/media/woman.74d5cc446e773ca4eb50.jpg",
+    "static/media/polar-bear.jpg": "/React-social-media/static/media/polar-bear.a6b15273f7c3d766a404.jpg",
+    "static/media/sisters.jpg": "/React-social-media/static/media/sisters.448469de036fb931a76f.jpg",
+    "static/media/maisan-provincial-park.jpg": "/React-social-media/static/media/maisan-provincial-park.d0969ea33d178262db07.jpg",
+    "static/media/birhtday.jpg": "/React-social-media/static/media/birhtday.60d2d98289b4e8ee8bf2.jpg",
+    "static/media/woman1.jpg": "/React-social-media/static/media/woman1.3a06a8a796e2074acff1.jpg",
+    "static/media/salad.jpg": "/React-social-media/static/media/salad.f8e4774a18be76c929a0.jpg",
+    "static/media/woman3.jpg": "/React-social-media/static/media/woman3.016d51956a3561964b55.jpg",
+    "static/media/red-poppies.jpg": "/React-social-media/static/media/red-poppies.4e2b4a67cd6bde658af1.jpg",
+    "static/media/smile.jpg": "/React-social-media/static/media/smile.26710ba744dd2cdf20e0.jpg",
+    "static/media/woman2.jpg": "/React-social-media/static/media/woman2.89389211316672e4fa57.jpg",
+    "static/media/animal.jpg": "/React-social-media/static/media/animal.378cb0e8d3b18f5f1e5b.jpg",
+    "static/media/one.jpg": "/React-social-media/static/media/one.7f8816d27c9051f619a7.jpg",
+    "static/media/beanie.jpg": "/React-social-media/static/media/beanie.27945ba3956c494dfc7b.jpg",
+    "static/media/happy.jpg": "/React-social-media/static/media/happy.2ec09cf3ef9221e74484.jpg",
+    "static/media/seagulls.jpg": "/React-social-media/static/media/seagulls.0d3d34469106b7cef0bb.jpg",
+    "static/media/people.jpg": "/React-social-media/static/media/people.bd4f94da80a324ecfba6.jpg",
+    "static/media/pink.jpg": "/React-social-media/static/media/pink.8632fc73d66dc4c4901f.jpg",
+    "static/media/sunset.jpg": "/React-social-media/static/media/sunset.339edaf27c85f08ba57a.jpg",
+    "static/media/model1.jpg": "/React-social-media/static/media/model1.c7b0010a22a46a1d26d0.jpg",
+    "static/media/girl.jpg": "/React-social-media/static/media/girl.95742442bcdf2208d387.jpg",
+    "static/media/heart.png": "/React-social-media/static/media/heart.d03a620755af56068dbd.png",
+    "static/media/like.png": "/React-social-media/static/media/like.be1d10c9aba02398fa0c.png",
+    "static/media/gift.png": "/React-social-media/static/media/gift.4a9c4d62df0cccc684e3.png",
     "index.html": "/React-social-media/index.html",
-    "main.255f5794.css.map": "/React-social-media/static/css/main.255f5794.css.map",
-    "main.ada7cd0c.js.map": "/React-social-media/static/js/main.ada7cd0c.js.map"
+    "main.e9225de0.css.map": "/React-social-media/static/css/main.e9225de0.css.map",
+    "main.c82f280c.js.map": "/React-social-media/static/js/main.c82f280c.js.map"
   },
   "entrypoints": [
-    "static/css/main.255f5794.css",
-    "static/js/main.ada7cd0c.js"
+    "static/css/main.e9225de0.css",
+    "static/js/main.c82f280c.js"
   ]
 }
